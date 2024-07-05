@@ -31,6 +31,11 @@
 - Open **"Customize Quick Access Toolbar:"** > **Customize Quick Access Toolbar**
 - **"Choose commands from"** > **Macros**
 - Choose **"CallPythonExe"** > **"Add >>"**
+- Let see the **Quick Access Toolbar**
+  [](image/image.png)
+- Click to open search window, For example, imput "Hung" to the search box 
+  [](image/image1.png)
+
 
 
 
